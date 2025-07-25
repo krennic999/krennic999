@@ -1,6 +1,6 @@
 👋 Hi
-- 🌱 I’m Xiaoxiao Ma, 3rd-year graduate student in USTC
-- 👀 I’m interested in image restoration, image enhancement and generative models
+- 🌱 I’m Xiaoxiao Ma, 0th-year PhD student in USTC
+- 👀 I’m interested in generative models, multi-modal and unified model
 - 📫 Currently looking for collaborations or internship; feel free to contact me: xiao_xiao@mail.ustc.edu.cn.
 - 🔍 See my personal website at: https://krennic999.github.io/
 
